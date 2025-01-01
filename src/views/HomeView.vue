@@ -31,6 +31,16 @@
         </div>
 
         <div class="w-full py-8 border-b-2">
+          <h2 class="text-2xl font-bold mb-8">Posts</h2>
+
+          <div class="space-y-8">
+              <PostCard date="17 set. 2024" link="https://dev.to/eunael/enums-e-lang-no-laravel-43am" title="Enums e lang no Laravel" description="Ensinando uma abordagem com enums e lang num projeto Laravel." />
+
+              <PostCard date="24 set. 2024" link="https://dev.to/eunael/execute-processos-no-linux-sem-interrupcoes-com-o-nohup-1eoj" title="Execute processos no linux sem interrupções com o nohup" description="Post que ensino como usar o nohup do linux para deixar processos sendo excutados sem precisar manter o terminal aberto." />
+          </div>
+        </div>
+
+        <div class="w-full py-8">
           <h2 class="text-2xl font-bold mb-8">Projetos</h2>
 
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
@@ -45,16 +55,6 @@
               title="Agenda Fisio"
               content="Primeiro projeto freelancer. Sistema de gestão para fisioterapeutas."
               link="https://agendafisio.nziim.com/" />
-          </div>
-        </div>
-
-        <div class="w-full py-8">
-          <h2 class="text-2xl font-bold mb-8">Posts</h2>
-
-          <div class="space-y-8">
-              <PostCard date="17 set. 2024" link="https://dev.to/eunael/enums-e-lang-no-laravel-43am" title="Enums e lang no Laravel" description="Ensinando uma abordagem com enums e lang num projeto Laravel." />
-
-              <PostCard date="24 set. 2024" link="https://dev.to/eunael/execute-processos-no-linux-sem-interrupcoes-com-o-nohup-1eoj" title="Execute processos no linux sem interrupções com o nohup" description="Post que ensino como usar o nohup do linux para deixar processos sendo excutados sem precisar manter o terminal aberto." />
           </div>
         </div>
     </div>
