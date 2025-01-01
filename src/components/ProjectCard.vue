@@ -10,7 +10,7 @@
 </script>
 
 <template>
-    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
+    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow hover:scale-110 transition ease-in-out">
         <a :href="link" target="_blank">
             <img class="rounded-t-lg" :src="imageSrc" alt="" />
         </a>

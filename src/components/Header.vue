@@ -12,8 +12,9 @@ import { RouterLink } from 'vue-router'
   
           <nav>
             <ul class="flex gap-8">
-              <li><RouterLink to="/projects">Projetos</RouterLink></li>
-              <li><RouterLink to="/about">Sobre</RouterLink></li>
+              <li class="hover:underline"><RouterLink to="/posts">Posts</RouterLink></li>
+              <li class="hover:underline"><RouterLink to="/projects">Projetos</RouterLink></li>
+              <li class="hover:underline"><RouterLink to="/about">Sobre</RouterLink></li>
             </ul>
           </nav>
         </div>
