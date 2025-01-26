@@ -9,6 +9,9 @@
 
                 <SectionTitle title="Sobre mim" />
                 
+                <p class="mb-8 italic text-xl">
+                    WIP.
+                </p>
             </div>
         </div>
     </section>
