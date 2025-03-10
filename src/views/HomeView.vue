@@ -52,7 +52,13 @@
               imageSrc="images/projects/agenda-fisio.png"
               title="Agenda Fisio"
               content="Primeiro projeto freelancer. Sistema de gestão para fisioterapeutas."
-              link="https://agendafisio.nziim.com/" />
+              link="https://agendafisio.nziim.com" />
+
+            <ProjectCard
+              imageSrc="images/projects/run-factory.png"
+              title="Run Factory"
+              content="Pacote Laravel para executar Factories via comando artisan. "
+              link="https://github.com/eunael/runfactory" />
 
             <ProjectCard
               imageSrc="images/projects/pegai.png"
