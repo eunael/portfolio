@@ -1,6 +1,7 @@
 <script setup lang="ts">
   import GithubIcon from '@/components/icons/GithubIcon.vue';
   import LinkedinIcon from '@/components/icons/LinkedinIcon.vue';
+  import InstagramIcon from '@/components/icons/InstagramIcon.vue';
   import EmailIcon from '@/components/icons/EmailIcon.vue';
   import SectionTitle from '@/components/SectionTitle.vue';
   import ProjectCard from '@/components/ProjectCard.vue';
@@ -16,7 +17,7 @@
           <SectionTitle title="E aí!" />
 
           <p class="mb-4">
-            Desenvolvedor Full Stack com mais de 4 anos de experiência. Tenho sólido conhecimento em desenvolvimento e manutenção de sistemas, com ênfase em PHP, Laravel e Livewire.
+            Sou desenvolvedor Full Stack com mais de 4 anos de experiência. Tenho sólido conhecimento em desenvolvimento e manutenção de sistemas, com ênfase em PHP, Laravel e Livewire.
           </p>
           <p class="mb-4">
             Possuo experiência nos processos de desenvolvimento de software, desde a ideação até o deploy, resolução de problemas, desenvolvendo novas features, garantindo a qualidade do código e participando de discussões técnicas.
@@ -26,6 +27,7 @@
             <li>Social:</li>
             <li class="hover:scale-110 transition ease-in-out"><a href="https://github.com/eunael" target="_blank"><GithubIcon/></a></li>
             <li class="hover:scale-110 transition ease-in-out"><a href="https://linkedin.com/in/eunael" target="_blank"><LinkedinIcon/></a></li>
+            <li class="hover:scale-110 transition ease-in-out"><a href="https://www.instagram.com/eunaell" target="_blank"><InstagramIcon/></a></li>
             <li class="hover:scale-110 transition ease-in-out"><a href="mailto:natanaelallves@gmail.com" target="_blank"><EmailIcon/></a></li>
           </ul>
         </div>
